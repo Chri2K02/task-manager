@@ -6,6 +6,16 @@ A full-stack project management app with a drag-and-drop kanban board, real-time
 
 ---
 
+## Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+
+![Kanban Board](screenshots/kanban.png)
+
+![New Project](screenshots/new-project.png)
+
+---
+
 ## Features
 
 - **Kanban board** — drag and drop tasks between To Do, In Progress, and Done
